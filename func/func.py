@@ -8,8 +8,8 @@ from CBR.CBR import CBR
 # from sqlalchemy.orm import  Session
 # db: Session = Depends(get_db)
 
-PAGE_ACCESS_TOKEN = "EAAJ82f1tJw8BAOSjNClnG0RkjjSldlVcKzI37qk1ohBpo1B8Vm3lZAWB5hdUP7iEyZCUZBZC7QUrzyHI2u5X6bjrZBSkk6hrKFnNnkAwtqILoZA2OsQmbZBZA4DRSJpbWWHNmGWpdfgP84q4NSEWCziAosKP0hgNnhYQNuvZCwYtn2VArEDmPztMx"
-VERIFY_TOKEN = "ngothenghia"
+PAGE_ACCESS_TOKEN = ""
+VERIFY_TOKEN = ""
 API = "https://graph.facebook.com/v13.0/me/messages?access_token=" + PAGE_ACCESS_TOKEN
 
 
