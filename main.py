@@ -15,4 +15,3 @@ app.include_router(chatbotAPI.router)
 # def root_api():
 #     return {"message": "Welcome to The Nghia"}
 
-# uvicorn main:app --host 0.0.0.0 --port 3000
